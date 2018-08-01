@@ -1,1 +1,1 @@
-# amoyguide
+# Bright your coding study
